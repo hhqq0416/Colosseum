@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<movie xmlns="http://www.example.org/InfoObjectSchema">
+<employee>
+<name>wangchenyang</name>
+<sex>m</sex>
+<age>26</age>
+</employee>
+</movie>
